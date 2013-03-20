@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Wondering</title><link href="http://magicsword.github.com/" rel="alternate"></link><link href="http://magicsword.github.com/feeds/Python.atom.xml" rel="self"></link><id>http://magicsword.github.com/</id><updated>2013-03-21T03:00:00+08:00</updated><entry><title>Write the Docs 心得</title><link href="http://magicsword.github.com/pycon-write-the-docs-zh-tw.html" rel="alternate"></link><updated>2013-03-21T03:00:00+08:00</updated><author><name>MagicSword</name></author><id>tag:magicsword.github.com,2013-03-21:pycon-write-the-docs-zh-tw.html</id><summary type="html">&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Write the Docs 心得&lt;/h2&gt;
+&lt;!-- intro: --&gt;
+&lt;p&gt;2013 的Pycon.US 上星期結束了(3/14-21)，開始來找一些有趣的主題來看。
+先從短的影片開始吧。&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=KEakc8r4r7M"&gt;Write the Docs(Youtube)&lt;/a&gt;&lt;/p&gt;
+&lt;div class="youtube" align="center"&gt;&lt;iframe width="640" height="480" src="http://www.youtube.com/embed/KEakc8r4r7M" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;!-- &lt;!- - more - -&gt; --&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;簡單的心得&lt;/h2&gt;
+&lt;p&gt;如何寫好說明文件 ？寫說明文件就像樹懶(Sloth)&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;樹懶可從低養份的食物中取得營養來源&lt;/li&gt;
+&lt;li&gt;樹懶有多個胃，來消化食物&lt;/li&gt;
+&lt;li&gt;樹懶只生活在中南美洲&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;淺顯、且清楚的文件可幫助使用者入門&lt;/li&gt;
+&lt;li&gt;可以用多種方式, 像:文件、Step by Step、影片
+、範例程式，tutorial，api ref，來說明&lt;/li&gt;
+&lt;li&gt;你的程式可能會被世界各地的人使用，所以文件用簡單、清楚的語句來寫&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="reference"&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=KEakc8r4r7M"&gt;Write the Docs(Youtube)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- 參考文件連結 --&gt;
+&lt;!-- 其他參考的連結，人，網站，wikipedia page --&gt;
+&lt;span class="target" id="thisfile"&gt;&lt;/span&gt;&lt;!-- vim:set shiftwidth=4 tabstop=4 expandtab textwidth=79: --&gt;
+&lt;!-- template_version=0.3_20120112 --&gt;
+&lt;/div&gt;
+</summary><category term="python"></category><category term="pycon"></category><category term="documention"></category></entry></feed>
